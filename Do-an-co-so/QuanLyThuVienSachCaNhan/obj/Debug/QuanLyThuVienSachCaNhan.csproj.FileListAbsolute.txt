@@ -1,0 +1,10 @@
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\QuanLyThuVienSachCaNhan\bin\Debug\QuanLyThuVienSachCaNhan.exe.config
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\QuanLyThuVienSachCaNhan\bin\Debug\QuanLyThuVienSachCaNhan.exe
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\QuanLyThuVienSachCaNhan\bin\Debug\QuanLyThuVienSachCaNhan.pdb
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\QuanLyThuVienSachCaNhan\obj\Debug\QuanLyThuVienSachCaNhan.csproj.AssemblyReference.cache
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\QuanLyThuVienSachCaNhan\obj\Debug\QuanLyThuVienSachCaNhan.Form1.resources
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\QuanLyThuVienSachCaNhan\obj\Debug\QuanLyThuVienSachCaNhan.Properties.Resources.resources
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\QuanLyThuVienSachCaNhan\obj\Debug\QuanLyThuVienSachCaNhan.csproj.GenerateResource.cache
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\QuanLyThuVienSachCaNhan\obj\Debug\QuanLyThuVienSachCaNhan.csproj.CoreCompileInputs.cache
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\QuanLyThuVienSachCaNhan\obj\Debug\QuanLyThuVienSachCaNhan.exe
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\QuanLyThuVienSachCaNhan\obj\Debug\QuanLyThuVienSachCaNhan.pdb
